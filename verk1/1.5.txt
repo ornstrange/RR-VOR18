@@ -1,0 +1,5 @@
+Ég komst að því að bestu lausnirnar lækkuðu öll litagildin um
+nánast sömu töluna. Því ef maður fór að hækka eitt eða lækka annað.
+þá virtist maður missa detail úr myndinni. En ef þú lækkar þau öll
+saman eftir svipuðum gildum þá tók maður ekki eftir því.
+Mér fannst #F0F0F0 skila bestum árangri.

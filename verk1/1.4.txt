@@ -1,0 +1,11 @@
+a) 	Sambandið liggur í því að það eru bara alltaf tveir möguleikar, 
+	semsagt tvær greinar sem hægt er að taka alveg eins og það er
+	bara hægt að vera með 0 og 1 í log2.
+
+b)	Morse code virkar þannig að það eru til tvo bíp, eitt langt og eitt stutt
+	sem mætti samsvara 0 og 1, og þau eru í ákveðin tíma. Svo er er einnig
+	pása sem er þá x löng bið. Morse virkar bara þannig að ákveðnar runur 
+	af stuttum og löngum bípum samsvara staf úr stafrófinu. 
+	Morse stafrófið var byggt þannig upp á svona Decision tree
+	að stöfunum var raðað eftir mestu notkun og þá var hægt að vera viss um
+	að algengustu stafirnir voru með sem fæstum bípum.

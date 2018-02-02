@@ -1,0 +1,11 @@
+for sides
+	walk forward(size)
+	turn(360 / sides) degress
+
+/*
+sides = 36
+pen purple
+for [1..sides]
+  fd 100
+  rt (360/sides)
+*/
