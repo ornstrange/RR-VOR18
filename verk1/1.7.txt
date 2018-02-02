@@ -1,0 +1,14 @@
+a)	Alan Turing er aðal kallinn, stærðfræðingur og gerði helling fyrir tölvunafræði.
+	Turing vél er uppfinning eftir hann, það er semsagt haus sem les inn gildi af
+	borða, og á borðanum er annaðhvort 1 eða 0 og ef því hvað er á borðanum færir
+	hausinn sig til vinstri eða hægri. og með þessu er hægt að forrita nánast allt.
+
+b)	Machine learning er þegar við látum forrit eða tölvu kenna sér sjálf að vera
+	betri í eitthverju með stærðfræði. þá setjum við upp forrit sem tekur inn gögn
+	og spýtir eitthverju út, hann hefur fullt af stillitökkum sem stilla hvernig
+	hann fær það sem hann fær. Svo það sem hann gerir er að fá einkunn fyrir svörin
+	sín og reynir að stilla takkana sína þannig að hann fái alltaf sem bestu einkunn.
+
+c)	Hermun nýtist mikið í eðlisfræði og allskonar aðstæðum þar sem það getur verið
+	hættulegt að prufa eitthvað í raunveruleikanum. Auk þess sem það hjálpar við
+	þróun nýrra vara. Dæmi, reikna burðarþol á brú?

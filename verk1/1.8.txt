@@ -1,0 +1,19 @@
+	-# SQUARE #-
+1.	return 0 if a is 0
+2.	return square(a - 1) + 2*(a - 1) + 1
+
+	-# LOG #-
+1.	return 1 if a is less than or equal to 10
+2.	return log(a / 10) + 1
+
+def square(a):
+	if a == 0:
+		return 0
+
+	return square(a - 1) + 2*(a - 1) + 1
+
+def log(a):
+	if a <= 10:
+		return 1;
+
+	return log(a/10) + 1
