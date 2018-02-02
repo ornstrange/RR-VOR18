@@ -1,0 +1,12 @@
+Örrn Óli Strange
+
+death 1][4
+lives [2, 3]
+birth [3]
+
+a) Stable
+	valdi bara munstur þannig að allar lifandi hafa tvo eða þrjá nágranna,
+	og engar dauðar eru með 3 lifandi nágranna
+
+b) Oscillator
+

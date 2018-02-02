@@ -1,0 +1,11 @@
+1. Safna öllum punktum í óheimsóttan-lista með endalausa fjarlægð frá byrjunarpunkt
+2. Velja einn byrjunarpunkt og setja fjarlægð á honum 0
+3. Setja byrjunarpunkt sem virkan punkt = N
+4. á meðan það eru ennþá punktar óheimsóttir
+	> veldu nágranna sem er með minnsta fjarlægð = V,
+	  taktu V úr óheimsótta listanum
+
+	> fyrir alla nágranna af V sem eru óheimsóttir = Z
+		> berðu saman fjarlægð V + V til Z,
+		  ef hún er minni en fjarlægð N til Z
+		  settu það sem nýja fjarlægð Z
