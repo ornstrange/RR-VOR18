@@ -30,7 +30,7 @@ def insertion_sort(arr):
 
 if __name__ == "__main__":
     if len(sys.argv) > 1:
-        arr = sys.argv[1].split(',')
+        arr = sys.argv[1].split(",")
         arr = list(map(lambda x: int(x), arr))
     else:
         arr = [5,3,7,1]
