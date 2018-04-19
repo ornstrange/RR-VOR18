@@ -1,7 +1,6 @@
 # Sorting
 
-1. 
-Insertion Sort
+1. Insertion Sort
     * a) Getur haft töluverð áhrif vegna þess að hann er í versta falli O(n^2) og O(n) í besta falli
     * b) lækkandi röð gerir hann O(n^2) ef hann á að raða í hækkandi og öfugt, slembin röð setur hann bara á milli O(n) og O(n^2)
     * c) Hann hefur ágætlega gott afþví ef stökin eru eins, því þá þarf hann ekkert að skipta þeim
